@@ -64,12 +64,12 @@ public class payload {
 				+ "\"author\":\"John foe\"\r\n"
 				+ "}";
 	}
-	/*
+	
 	public static String Deletebook(String cont) {
 		
 		return "{\r\n"
 				+ "\"ID\" : \""+cont+"\"\r\n"
 				+ "} ";
-	}*/
+	}
 
 }
